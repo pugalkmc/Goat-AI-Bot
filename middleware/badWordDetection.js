@@ -1,22 +1,24 @@
-import pkg from 'natural';
-const { WordTokenizer } = pkg;
+import natural from 'natural';
 
-const tokenizer = new WordTokenizer();
-const badWords = ['fuck','fuk','fck','suck','**','bitch']
+const tokenizer = new natural.WordTokenizer();
+const badWords = ['fuck', 'fuk', 'fck', 'suck', 'bitch'];
 
 function detectBadWords(text) {
     if (!text) {
         return false;
-      }
-    const words = tokenizer.tokenize(text);
-    console.log(words)
-    const detected = words.filter(word => badWords.includes(word.toLowerCase()));
-    if (detected.length>0){
-        return true
     }
-    return false
+
+    const words = tokenizer.tokenize(text.toLowerCase());
+    console.log(words);
+
+    for (let i = 0; i < badWords.length; i++) {
+        const regex = new RegExp(`\\b${badWords[i]}\\b`);
+        if (regex.test(text.toLowerCase())) {
+            return true;
+        }
+    }
+
+    return false;
 }
 
-export {
-    detectBadWords
-}
+export { detectBadWords };

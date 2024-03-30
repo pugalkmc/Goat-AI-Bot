@@ -23,7 +23,7 @@ async function updateUserWarning(userId, newWarnCount) {
 // Function to kick a user from the group
 async function kickUser(chatId, userId) {
   await bot.telegram.kickChatMember(chatId, userId);
-  await updateUserWarning(userId, -2);
+  await updateUserWarning(userId, 0);
 }
 
 const checkBadWord = async (ctx, next) => {
@@ -42,12 +42,12 @@ const checkBadWord = async (ctx, next) => {
       if (newWarnCount === 1) {
         // First warning, notify the user
         await ctx.reply(
-          `You have received your first warning for using inappropriate language.`
+          `You have received your first warning for using inappropriate language.⚠️`
         );
       } else if (newWarnCount === 2) {
         // Second warning, notify the user and mute for 10 minutes
         await ctx.reply(
-          `You have received your second warning. You will be muted for 10 minutes.`
+          `Hey @${ctx.message.from.username} It's your second warn , You will be muted for 10 minutes.\nIf you repeat this again , you will be banned permanently⚠️`
         );
         await bot.telegram.restrictChatMember(ctx.chat.id, ctx.from.id, {
           until_date: Math.floor(Date.now() / 1000) + 600,
@@ -56,7 +56,7 @@ const checkBadWord = async (ctx, next) => {
       } else if (newWarnCount >= 3) {
         // Third warning, kick the user
         await ctx.reply(
-          `You have received your third warning and have been kicked from the group.`
+          `@${ctx.message.from.username} have received your third warning and have been kicked from the group.`
         );
         await kickUser(ctx.chat.id, ctx.from.id);
       }

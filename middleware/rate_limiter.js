@@ -15,6 +15,7 @@ var groupSettings = {
   };
 
 const rateLimitMiddleware = async (ctx, next) => {
+  console.log(groupSettings)
   const chatId = ctx.chat.id;
   const userId = ctx.from.id;
   const timestamp = Date.now();
@@ -53,7 +54,8 @@ const rateLimitMiddleware = async (ctx, next) => {
       }
     }
 
-    if (!groupSettings.status) {
+  
+    if (!groupSettings.rateLimit) {
       return next();
     }
 
@@ -69,7 +71,7 @@ const rateLimitMiddleware = async (ctx, next) => {
     // Check if the user has exceeded the rate limit
     if (userMessageTimestamps.length >= groupSettings.rateLimitByMinute) {
       await ctx.reply(
-        "You have exceeded the rate limit. You have been muted for 10 minutes."
+        `@${ctx.message.from.username} have exceeded the rate limit. You have been muted for 10 minutes.`
       );
       // Perform action for rate limit exceedance (e.g., mute user)
       await ctx.telegram.restrictChatMember(chatId, userId, {

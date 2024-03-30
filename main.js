@@ -52,7 +52,7 @@ app.post("/telegram-webhook", (req, res) => {
 
 bot.use(session());
 
-bot.use(!isAdmin, rateLimitMiddleware);
+bot.use(rateLimitMiddleware);
 bot.use(adminCommandsHandler);
 bot.command("reload", updateAdminList);
 bot.command("documentation", async (ctx)=>{
@@ -118,7 +118,7 @@ bot.on("new_chat_members", async (ctx) => {
   }
 });
 
-bot.use(!isAdmin, checkBadWord);
+bot.use(checkBadWord);
 bot.on("text", isResponder, handleMentionOrReply);
 bot.on('message', groupIdChange);
 
