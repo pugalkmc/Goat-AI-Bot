@@ -52,9 +52,15 @@ app.post("/telegram-webhook", (req, res) => {
 
 bot.use(session());
 
-bot.use(rateLimitMiddleware);
+bot.use(!isAdmin, rateLimitMiddleware);
 bot.use(adminCommandsHandler);
 bot.command("reload", updateAdminList);
+bot.command("documentation", async (ctx)=>{
+  await ctx.reply(`
+Here is our complete documentation:
+https://grooves-organization.gitbook.io/goat-ai-assistance
+`)
+})
 
 bot.use((ctx, next) => {
   if (  
