@@ -1,0 +1,305 @@
+What is Kommunitas?
+​Kommunitas is a decentralized crowdfunding ecosystem for web3.0 projects. Some might refer to it as a "launchpad" or "IDO Platform" but Kommunitas is aiming to build not only a platform, but more to an ecosystem.
+Kommunitas not only provides fundraising for any type web3.0 projects from various blockchain (Ethereum, BSC, Polygon, Solana, Avax, Fantom, Arbitrum, etc), but also other forms of support, such as Marketing, Community Management, KOL and VC Connections, SEO and even project development needs such as vesting portal and staking platform.
+Since its inception, Kommunitas has introduced and been pioneers of many interesting concepts in the web3.0 industry. Some of them are Initial KOMmunity Offering / IKO (tierless, no barrier and decentralized IDO) and Social Engagement Burning (a way of rewarding the community by reducing circulation supply of the token based on engagement metrics across social media).
+Not only investors will get capital gain from their investment of Public sale tokens, they are also presented with the opportunity to earn passive Revenue Sharing in Stable Coin as well as in KOM Token by holding and staking KOM token. (Read more about Revenue Sharing here : https://docs.kommunitas.net/staking/quarterly-revenue-sharing). Or visit https://earn.kommunitas.net to understand all earning opportunities.
+Kommunitas has 8 main features that make it stands out from other competitors:
+1. Tier-Less System
+The amount of allocation a user receives is proportional to the amount of KOM they stake, with no tiers and barriers to entry. This means all KOM holders will have a chance to participate in our Launchpad, regardless of their comfortable investment limit, ridding them of any stress induced when they’re required to hold a minimum number of tokens to participate in a Public Sale. So, the more KOM token they staked, the more allocation they will get.
+2. Revenue Sharing
+This feature is only for Private Partners. 30% of the fees collected from our FCFS and Community Rounds will be pooled into the Private Partners Treasury Wallet. The funds (in USDC) collected will then be shared amongst our Private Partners (Wallets with more than 500,000 KOM staked) at the end of each quarter. Read more : https://docs.kommunitas.net/staking/quarterly-revenue-sharing). For those who owns and stakes more than 10,000,000 KOM, we identify them as KOM Millionaire Partners and we take 5% out of our monthly revenue and distribute with them proportionally. Read more : https://medium.com/@kommunitas/kommunitas-proudly-announces-kom-millionaire-partners-799dfbeff752​
+3. Priority Projects Criteria
+Kommunitas aims to bring high-quality projects that must satisfy several criteria. They include, but are not limited to, having locked liquidity in a 1:1 ratio according to their Initial Market Cap, and the price of the token not dropping below IKO price for 3 consecutive days before 50% of the tokens are vested. Understand more about our Priority Projects Criteria at https://medium.com/@kommunitas/a5cb1960fd8e​
+4. Earn
+​Earn page, which is designed to provide a comprehensive overview of all the ways you can earn KOM tokens and other rewards on our platform. our Earn page has something for everyone. From KOM Staking and Revenue Sharing to Airdrops and Voting rewards, we have compiled all the ways you can earn tokens in one easy-to-use page. Let’s take a closer look at some of the ways you can earn tokens on our platform.
+5. Account
+We’ve heard from some of our investors that they find the world of cryptocurrency overwhelming, especially when it comes to keeping track of all of their assets and investments. That’s why we’re excited to announce the launch of the Kommunitas Account feature on our platform. This new feature will give you a helicopter view of all of your token and crypto assets in your wallet, as well as your details on the Kommunitas platform, such as staking and launchpad details. Read more about Kommunitas Account here: https://medium.com/p/7652ae0fe9b4​
+6. Secure IKO
+The importance of trust and security in the volatile world of cryptocurrency cannot be overstated. Kommunitas warmly welcomes users to Kommunitas Secure IKO, users gateway to a safe and promising cryptocurrency offering. To understand more about Secure IKO, please visit this page: https://docs.kommunitas.net/launchpad/secure-iko​
+7. Vote, Share and Buy (VSB)
+Kommunitas Launchpad has always been known to innovate and provide the best value for investors. This time, we are proud to announce the first distribution of Vote, Share and Buy (VSB) campaign rewards, another first for Kommunitas Launchpad participants. What sets us apart from other launchpads is our commitment to ensuring that our investors receive maximum rewards for their investments. The VSB Campaign is another way we are delivering on this promise. Read more about Vote, Share and Buy here: https://docs.kommunitas.net/earn/vote-share-and-buy-rewards​
+8. Learn2Earn (L2E)
+Step into the exciting realm of cryptocurrency through the Learn2Earn Campaign by Kommunitas, tailored to enhance your understanding of our portfolio projects. Perfect for everyone, from crypto novices to enthusiasts, this campaign simplifies complex concepts into an accessible format.
+The heart of the Learn2Earn Campaign lies in its interactive format, featuring 10 quizzes composed of multiple-choice questions, all hosted on the Galxe platform. This approachable, quiz-based learning not only makes absorbing information fun but also tests your knowledge as you progress. Read more about L2E here: https://docs.kommunitas.net/earn/learn2earn
+
+Kommunitas Revealed: How Kommunitas is Changing the Crypto Crowfunding
+Introduction
+In the ever-evolving landscape of Web3, choosing the right platform for decentralized crowdfunding is crucial. Kommunitas stands out as a leader in this realm, offering an array of unique benefits for not only crypto startups but also for retail investors.
+Background of Kommunitas
+At its heart, Kommunitas is a Decentralized Crowdfunding Ecosystem, governed by the $KOM token. It provides a robust solution for decentralized fundraising in Web3.0, serving as a one-stop solution with a variety of features and services.
+Kommunitas Features
+Kommunitas distinguishes itself in the competitive crypto space with four key features:
+1. Tier-Less System
+Kommunitas has a special system that ensures all users who hold KOM tokens get a fair chance to participate in their Launchpad projects. It’s designed to be inclusive. The key is simple: the more KOM tokens a user stakes, the more they can get involved in the projects. There’s no need for a minimum number of tokens, so every user has the opportunity to participate, regardless of how many tokens they hold or stake in Kommunitas staking platform.
+This approach removes the stress and barriers, allowing every user, whether they staked a small or large amount of KOM, to be a part of the exciting Launchpad projects. For details on how the allocation mechanism is calculated, please refer to the article linked here.
+2. Revenue Sharing
+Kommunitas offers a unique profit-sharing model that benefits its partners in two main ways, which no other launchpad has this unique feature.
+- Quarterly Revenue Sharing for KOM Private Partners
+Every quarter, we distribute a portion of our earnings among our Private Partners. This is done by allocating 30% of the fees collected from certain rounds, like First Come, First Served (FCFS) and Community Rounds. The money, held in USDC, is pooled into a special Treasury Wallet. From here, it’s shared with those who have staked more than 500,000 KOM. This quarterly sharing ensures a regular benefit for our dedicated partners.
+For more information about Private Partners, please visit this link.
+- Monthly Rewards for KOM Millionaire Partners
+Users who go a step further by staking over 10,000,000 KOM are recognized as KOM Millionaire Partners. Being Kommunitas Millionaire Partners enjoy an exclusive benefit. We share 5% of our monthly revenue and distribute it among them, with the amount each partner receives depending on their stake proportion.
+For more information on how to join our Millionaire Partner program, please refer to this article.
+- Kommunitas Priority Projects Offering
+Our Priority Projects are chosen because they agreed to met our high standards, ensuring both quality and safety for our investors.
+Here’s what’s new and important in our Priority Projects initiative:
+Improved Refund Policy with Airdrop Benefits: We’ve updated our refund policy. Now, if a project’s token price drops significantly right after listing, not only will investors get a full refund, but they will also keep their initial tokens as a free airdrop. This change is about giving more value back to our investors.
+These updates reflect our dedication to enhancing the benefits for our investors and encouraging accountability in projects. We believe these changes make Kommunitas a safer and more rewarding environment for everyone involved.
+To learn more about our Priority Projects, kindly visit this link.
+- Kommunitas Secure IKO Offering
+Kommunitas Secure IKO is our latest feature, designed to balance strict security with more opportunities for high-quality projects. We’ve learned from our past experiences: being too strict sometimes limits the range of projects and can lead to unexpected outcomes.
+Here’s what Secure IKO brings to the table:
+1. Easy and Empowering Refund Process
+The refund procedure within Secure IKO is straightforward, reflecting our commitment to a decentralized, trust-based platform. Requesting a refund is as simple as your initial commitment — no complicated forms, just a few clicks.
+2. User Control and Convenience
+We respect your time and security. With Kommunitas, you have total control over your investment. Support the project or opt for a full refund within a 3-day window — all made hassle-free and user-friendly.
+3. Balanced Selection Criteria
+Our revised criteria maintain high standards but are more accommodating to exceptional projects. This new approach attracts reputable projects, offering them a structured and trustworthy introduction to our community. It also simplifies their access to funds and the refund process.
+To learn more about our Secure IKO, kindly visit this link.
+Ways to Earn Free Tokens:
+- Vote, Share, and Buy Rewards (VSB)
+The essence of this program is that if users meet the specified criteria, they’ll receive bonus project tokens. This means that for the same amount of money, if users purchase through Kommunitas, they’ll receive more tokens compared to buying the same project on other launchpads. According to our data, users typically get an average of 14% extra tokens from the 42x distribution of VSB. The history of reward distribution can be viewed here.
+To understand how to join a VSB campaign for one of our projects, check out this example: ICON. X WORLD VSB Campaign.
+- Learn 2 Earn (L2E)
+Kommunitas offers users the chance to earn project tokens by getting involved in current fundraisers. The process is simple: users just need to learn about the project and correctly answer quiz questions. In doing this, users can earn project tokens, each with a minimum value of $10. This presents a unique opportunity where learning actually pays off. For those who like to spend time browsing content, this is an ideal way to earn rewards while relaxing.
+To understand how to join a Learn 2 Earn for one of our projects, check out this article: ICON.X WORLD L2E Campaign.
+- Airdrop
+When projects raise funds through Kommunitas, they often provide airdrops of free tokens as a token of appreciation for contributions. Users of Kommunitas have the opportunity to receive these airdrops without needing to make any financial investment. The only requirement is for users to complete straightforward tasks on social media platforms. The value of these airdrops can vary, ranging from tens to hundreds of dollars in project tokens. Additionally, completing a task for an airdrop typically takes less than five minutes. This is a proven system, as numerous airdrops have already been successfully conducted, with tokens distributed to participants. For verification of the reward distribution history, users can visit this link.
+To understand how to join an airdrop campaign for one of our projects, check out this example: Bounty Temple Airdrop Campaign​
+- Ask Me Anything (AMA)
+A program offered by Kommunitas, similar to its Learn2Earn initiative. This unique feature involves direct interaction with project leaders who are in the process of raising funds on Kommunitas, usually conducted through Twitter Spaces or Telegram Group Chats. Participants in these sessions can pose questions, and if their queries are selected by the speakers, they receive rewards. These rewards range from a minimum of $10 to a maximum of $20. Additionally, participants who actively promote the AMA’s featured project on Galxe as part of the Kommunitas campaign are eligible for an extra $10 bonus.
+To understand how to join one of our projects AMA sessions, check out this example: Twitter Space AMA Kommunitas X Chopsui​
+- 730 Days Stakers Rewards
+This program is a testament to Kommunitas’ appreciation for users who demonstrate their faith in the KOM token’s future by staking it for two years. In recognition of this commitment, Kommunitas periodically awards these long-term stakers with airdrop tokens from various projects that have raised funds through the platform. Users interested in viewing the history of these reward distributions can do so by visiting this link.
+To learn more about the 730 Days Program, please read here.
+- Staking
+Staking, in many ways, is akin to making a deposit at a bank. At Kommunitas, users have the opportunity to earn up to 15% interest through staking. Currently, over 1 billion KOM tokens are staked on the platform, representing 61% of the total circulating supply of 1.68 billion KOM. Additionally, staked KOM tokens at Kommunitas are eligible for Compounding Interest, which means the earnings of users can increase exponentially over time, creating a snowball effect in their investment growth. Users interested in staking KOM can do so exclusively at Kommunitas Staking.
+To learn more on how to stake $KOM please visit this link.
+- KOM Event
+KOM Events are exclusive occurrences, typically happening once or twice a month. In these events, users have the chance to win prizes that can reach up to $1000.
+For those interested in viewing the history of prize distributions from past KOM Events, kindly click this link.
+Case Studies and Success Stories
+In 2023, Kommunitas showcased its prowess in the crypto space with remarkable achievements. The platform’s First-Come-First-Serve (FCFS) rounds saw incredible demand, highlighted by GoWrap selling out in under 10 seconds. Top-performing Initial Kommunity Offerings (IKOs) like Earn Network, Propbase, Vinu Chain, and Tectum delivered impressive returns, some achieving up to 10.2 times the initial value, demonstrating the platform’s capacity to offer lucrative opportunities to its participants.
+In terms of token growth, Kommunitas experienced a significant surge. The total number of KOM holders rose to 37,614, a notable increase from the previous year. This growth is a testament to the platform’s rising influence in the crypto world.
+Fundraising efforts were equally successful, with the platform raising over 12 million USDT in 2023, nearly double the amount from 2022. The number of unique participants also climbed, reaching 8,351 users, reflecting a growing interest and trust in Kommunitas’ capabilities.
+Another feather in its cap was being recognized by CryptoRank as one of the Top 10 Most Popular IDO Platforms in June 2023, further solidifying its position as a leader in the industry.
+For an in-depth look at Kommunitas’ achievements in 2023, users are encouraged to read the detailed article here.
+Conclusion
+Kommunitas is not just a platform; it’s a comprehensive ecosystem designed to empower and reward its community. Whether through innovative fundraising solutions or diverse ways to earn free tokens, Kommunitas is redefining the decentralized crowdfunding experience.
+
+
+
+Tokenomics:
+
+Token Distribution
+$KOM will play a crucial role for investors and next projects. Here you can find how the total supply of $KOM will be distributed accordingly.
+​
+
+Total supply: 40 Billion
+Max supply : 2 Billion
+Dec: 8
+Our max supply has been reduced from 40B KOM to 2B KOM, we will do so by burning the tokens in our DxLock contract when they are vested, at the end of each month.
+We will also provide updates on the burning, together with our monthly report. You may read more about the reduction in our total supply here:
+
+Reduction of Total Supply from 40B to 2B $KOM
+Medium
+You can check and verify the Locked $KOM tokens which we will burn by following the steps below. Step:
+1.
+You will need to have matic mainnet added on your metamask. (you won’t be able to see the locked tokens if you aren’t on matic mainnet!)
+2.
+Head on to your browser and search Dxsale.app
+3.
+Go to DxLock and click on “View Locker”
+4.
+Choose “Token Lockers” and look for Kommunitas (or paste KOM token contract)
+For further proof, you can also see that ~94% of our tokens are locked in a smart contract here:
+​https://polygonscan.com/token/0xc004e2318722ea2b15499d6375905d75ee5390b8#balances
+We have also locked our liquidity on QuickSwap with DxLock.
+The liquidity will be locked for 2 years, until 1st Aug 2023.
+You can check on that lock by visiting this link: https://dxsale.app/app/v2_9/dxlockview?id=0&add=0x2486f308919F93B85477C65E37247190a06a095c&type=lplock&chain=Matic​
+Name
+Address
+Percentage
+Description
+100% Unlock On
+Notes/Link
+Private sale
+​
+1%
+​
+No Lock
+​
+Public sale
+0x97fBBC6fBae427FADA586816104f4f071DAaf215
+15%
+Vesting 5% every month until 20 months
+31-Mar-23
+unlock
+Liquidity Provider
+0x2486f308919F93B85477C65E37247190a06a095c
+15%
+Vesting 5% every month until 20 months
+31-Mar-23
+unlock
+Airdrop & Bounty
+0xeB910B91Ee161968301FB3c534bc305487D1cB93
+1%
+Will be divided into several phase
+No Lock
+​
+R&D
+0x2dC78a1fFe268D5129272D2212FE08CdC3871dC4
+10%
+Vesting 2% every month until 50 months
+01-Sep-25
+​https://dxsale.one/app/v2_9/dxlockview?id=0&add=0x2dC78a1fFe268D5129272D2212FE08CdC3871dC4&type=tokenlock&chain=Matic https://dxsale.one/app/v2_9/dxlockview?id=1&add=0x2dC78a1fFe268D5129272D2212FE08CdC3871dC4&type=tokenlock&chain=Matic​
+Foundation
+0x9E043F25b7de49B116d67d3838824B7794c04540
+10%
+Vesting 2% every month until 50 months
+01-Sep-25
+​https://dxsale.one/app/v2_9/dxlockview?id=0&add=0x9E043F25b7de49B116d67d3838824B7794c04540&type=tokenlock&chain=Matic​​
+Staking Rewards
+0x5c485451caE2E7A80A2a70B5Dbd2401de4403b82
+15%
+Vesting 2% of 120 M token per month until 50 months
+01-Sep-25
+​https://dxsale.one/app/v2_9/dxlockview?id=0&add=0x5c485451caE2E7A80A2a70B5Dbd2401de4403b82&type=tokenlock&chain=Matic​
+Marketing
+0xED37fD718c006cd0E2a2642D8dc9D5C3A0DbAFb4
+5%
+Vesting 2% of 40 M token per month until 50 months
+01-Sep-25
+​https://dxsale.one/app/v2_9/dxlockview?id=0&add=0xED37fD718c006cd0E2a2642D8dc9D5C3A0DbAFb4&type=tokenlock&chain=Matic​​
+Charity
+0x8a61D56ed53ccD56f4Fd5C11092b01a762dc47e6
+5%
+Vesting 2% of 40 M token per month until 50 months
+01-Sep-25
+​https://dxsale.one/app/v2_9/dxlockview?id=0&add=0x8a61D56ed53ccD56f4Fd5C11092b01a762dc47e6&type=tokenlock&chain=Matic​​
+Partnership
+0x39Ffedd330579F9AB23CeA13802D4bc99C4C8926
+5%
+Vesting 2% of 40 M token per month until 50 months
+01-Sep-25
+​https://dxsale.one/app/v2_9/dxlockview?id=0&add=0x39Ffedd330579F9AB23CeA13802D4bc99C4C8926&type=tokenlock&chain=Matic​​
+Team
+0x4096BF9b365682DD31b9f2340d0D020bE6eD4Ae5
+5%
+Locked for 1 year. Burnt.
+01-Jul-22
+unlock​
+Advisor
+0xC1eEB190b8e79eb521519027fc0C91a59F44E25a
+5%
+Locked for 1 year. Burnt.
+01-Jul-22
+unlock​
+Incubator Grant
+0xAb69f5a3a68465e5Aa4b5534848110108554048B
+8%
+Vesting of 40 M token for 50 months
+
+Smart Contracts:
+In this section, you can find all Smart Contracts or Token Address for Kommunitas Project, Liquidity Provider Pair Smart Contract, etc.
+Name
+Contract Address
+Link
+KOM Token (Polygon)
+0xc004e2318722ea2b15499d6375905d75ee5390b8
+​https://polygonscan.com/token/0xc004e2318722ea2b15499d6375905d75ee5390b8​
+KOM Token (Arbitrum)
+0xA58663FAEF461761e44066ea26c1FCddF2927B80
+​https://arbiscan.io/token/0xA58663FAEF461761e44066ea26c1FCddF2927B80​
+KOM Token (BSC)
+0x471ea49dd8e60e697f4cac262b5fafcc307506e4
+​https://bscscan.com/token/0x471ea49dd8e60e697f4cac262b5fafcc307506e4​
+KOMV (Polygon)
+0xE1bB02b367173ac31077a8c443802f75CC9aCCb6
+​https://polygonscan.com/address/0xE1bB02b367173ac31077a8c443802f75CC9aCCb6​
+KOMV (Arbitrum)
+0xd0F7eC675F7D29BCf58FB1ea793CbA42644d05C4
+​https://arbiscan.io/address/0xd0f7ec675f7d29bcf58fb1ea793cba42644d05c4​
+KOM Staking V1
+0x453d0a593d0af91e77e590a7935894f7ab1b87ec
+​https://polygonscan.com/address/0x453d0a593d0af91e77e590a7935894f7ab1b87ec​
+KOM Staking V2
+0x8d37b12DB32E07d6ddF10979c7e3cDECCac3dC13
+​https://polygonscan.com/address/0x8d37b12DB32E07d6ddF10979c7e3cDECCac3dC13​
+KOM Staking V3
+0x8d34Bb43429c124E55ef52b5B1539bfd121B0C8D
+​https://polygonscan.com/address/0x8d34Bb43429c124E55ef52b5B1539bfd121B0C8D​
+QuickSwap LP
+​
+Quick - KOM
+0xc004e2318722ea2b15499d6375905d75ee5390b8
+​https://info.quickswap.exchange/token/0xc004e2318722ea2b15499d6375905d75ee5390b8​
+QuickSwap LP
+​
+WMATIC - KOM
+0xc004e2318722ea2b15499d6375905d75ee5390b8
+​https://info.quickswap.exchange/token/0xc004e2318722ea2b15499d6375905d75ee5390b8​
+ApeSwap LP
+WMATIC - KOM
+0xc004e2318722ea2b15499d6375905d75ee5390b8
+​https://polygon.info.apeswap.finance/token/0xc004e2318722ea2b15499d6375905d75ee5390b8 ​
+DFYN LP
+​
+WMATIC - KOM
+0xc004e2318722ea2b15499d6375905d75ee5390b8
+​https://info.dfyn.network/token/0xc004e2318722ea2b15499d6375905d75ee5390b8​
+SushiSwap LP
+​
+WMATIC - KOM
+0xc004e2318722ea2b15499d6375905d75ee5390b8
+​https://analytics-polygon.sushi.com/tokens/0xc004e2318722ea2b15499d6375905d75ee5390b8 ​
+Polydex LP
+​
+KOM - USDC
+0x0295e3d4c632d4a021886fd4a4c9cb06bd6778ae
+​https://polygonscan.com/token/0x0295e3d4c632d4a021886fd4a4c9cb06bd6778ae​
+MyTrade
+​
+KOM - CNT
+0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174
+​https://mytrade.org/trade?inputCurrency=0xC004e2318722EA2b15499D6375905d75Ee5390B8&outputCurrency=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174​
+Algebra
+​
+KOM - USDC
+0x87ED637706a8de8fDF34912121bffA266Bc2DDBD
+​https://polygonscan.com/address/0x87ed637706a8de8fdf34912121bffa266bc2ddbd​
+Arbitrum LP
+​
+ETH - KOM
+0x444083C74e635D6aeed9CA10b521fBF02db8c166
+​https://arbiscan.io/address/0x444083C74e635D6aeed9CA10b521fBF02db8c166​
+
+If you have any suggestion, don't hesitate to email support@kommunitas.net
+
+FAQs
+If you have any suggestion for FAQs. Please email : support@kommunitas.net
+1. What is Kommunitas?
+​Kommunitas is a decentralized crowdfunding ecosystem for web3.0 projects. Some might refer to it as a "launchpad" or "IDO Platform" but Kommunitas is aiming to build not only a platform, but more to an ecosystem.
+Kommunitas not only provides fundraising for any type web3.0 projects from various blockchain (Ethereum, BSC, Polygon, Solana, Avax, Fantom, etc), but also other forms of support, such as Marketing, Community Management, KOL and VC Connections, SEO and even project development needs such as vesting portal and staking platform.
+Since its inception, Kommunitas has introduced and been pioneers of many interesting concepts in the web3.0 industry. Some of them are Initial KOMmunity Offering / IKO (tierless, no barrier and decentralized IDO) and Social Engagement Burning (a way of rewarding the community by reducing circulation supply of the token based on engagement metrics across social media)
+Not only investors will get capital gain from their investment of Public sale tokens, they are also presented with the opportunity to earn passive Revenue Sharing in Stable Coin as well as in KOM Token by holding and staking KOM token. (Read more about Revenue Sharing here : https://docs.kommunitas.net/staking/quarterly-revenue-sharing) Or visit https://earn.kommunitas.net to understand all earning opportunities.
+2. Why name it Kommunitas?
+Kommunitas was inspired by the original word of Community, which is from the Latin word Communitas, meaning “the same”. Therefore, Kommunitas is a community, which share the same vision and goal to get a capital gain in the cryptocurrency space.
+3. What makes Kommunitas stand out from other Launchpad?
+1. Tier-Less System The amount of allocation a user receives is proportional to the amount of $KOM they stake, with no tiers and barriers to entry. This means all $KOM holders will have a chance to participate in our Launchpad, regardless of their comfortable investment limit, ridding them of any stress induced when they’re required to hold a minimum number of tokens to participate in a Public Sale. So, the more KOM token they staked, the more allocation they will get.
+2. Revenue Sharing This feature is only for Private Partners. 30% of the fees collected from our FCFS and Community Rounds will be pooled into the Private Partners Treasury Wallet. The funds (in USDC) collected will then be shared amongst our Private Partners (Wallets with more than 500K KOM staked) at the end of each quarter. Read more : https://docs.kommunitas.net/staking/quarterly-revenue-sharing For those who owns and stakes more than 10,000,000 KOM, we identify them as KOM Millionaire Partners and we take 5% out of our monthly revenue and distribute with them proportionally. Read more : https://medium.com/@kommunitas/kommunitas-proudly-announces-kom-millionaire-partners-799dfbeff752 3. Priority Projects Criteria Kommunitas aims to bring high-quality projects that must satisfy several criteria. They include, but are not limited to, having locked liquidity in a 1:1 ratio according to their Initial Market Cap, and the price of the token not dropping below IKO price for 3 consecutive days before 50% of the tokens are vested. Understand more about our Priority Projects Criteria at https://medium.com/@kommunitas/a5cb1960fd8e​
+4. Secure IKO
+The importance of trust and security in the volatile world of cryptocurrency cannot be overstated. Kommunitas warmly welcomes users to Kommunitas Secure IKO, users gateway to a safe and promising cryptocurrency offering. To understand more about Secure IKO, please visit this page: https://docs.kommunitas.net/launchpad/secure-iko​
+4. What are the benefits or advantages for projects that will launch on the Kommunitas platform?
+Launching on the Kommunitas platform offers numerous benefits and advantages for projects, including:
+Accessible fundraising: Kommunitas Launchpad, is a tierless, barrier-free, and decentralized IDO platform that makes it easy for projects to raise funds.
+Wide exposure: With over 250,000 followers on Twitter and 110,000+ members on Telegram, projects can reach a vast and engaged audience.
+Strong network: Projects can connect with 150+ Community Partners/ KOLs and 150+ web3.0 VCs, providing ample opportunities for networking and collaboration.
+Comprehensive support: Our experienced team offers guidance throughout the entire launch process, ensuring a seamless experience for both the project and its investors.
+Reputation: Kommunitas has won the "Best Crypto Launchpad" award at Crypto Expo Asia, Singapore, further solidifying its position as a trusted and reliable platform.
+Proven track record: With over 85+ projects launched, over $8,520,000 raised, and 8,000 unique participants, per April 2023 Kommunitas has a proven history of success.
+Upcoming ecosystem expansions: Projects can benefit from upcoming catalysts in the Kommunitas Ecosystem, such as KOM Dex, KOM Labs, and KOM DAO.
+Security and trust: Audited by 4+ notable audit partners in web3.0, projects can trust that their launch will be secure and reliable.
+Additional promotional opportunities: Projects can take advantage of numerous AMA events and live AMAs to further promote their launch and engage with potential investors.
+5. What are the future plans of Kommunitas?
+Kommunitas has a long term vision to become the market leader in Crypto Crowd Funding industry. With the goal to have at least 20,000 participants per sale and ability to raise $1 Million per sale, we are aiming to be the best crowdfunding ecosystem for all web3.0 projects. To get an updated roadmap of Kommunitas, please visit : https://docs.kommunitas.net/roadmap​

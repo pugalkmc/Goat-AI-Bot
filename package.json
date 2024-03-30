@@ -1,0 +1,33 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.6.4",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "faiss-node": "^0.2.1",
+    "langchain": "^0.0.96",
+    "moment-timezone": "^0.5.44",
+    "mongoose": "^8.0.3",
+    "morgan": "^1.10.0",
+    "natural": "^6.12.0",
+    "nodemon": "^3.0.3",
+    "openai": "^3.3.0",
+    "telegraf": "^3.38.0",
+    "tesseract.js": "^5.0.4",
+    "winston": "^3.11.0",
+    "yarn": "^1.22.22"
+  },
+  "name": "goat_node",
+  "version": "1.0.0",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "exports": {
+    "./stage": "./stage.js"
+  }
+}

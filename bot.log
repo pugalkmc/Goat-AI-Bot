@@ -1,0 +1,160 @@
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-09T06:52:50.681Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-09T06:53:06.655Z"}
+{"error":{"code":403,"description":"Forbidden: bot was kicked from the supergroup chat","on":{"method":"sendMessage","payload":{"chat_id":-1002102814132,"text":"An unexpected error occurred. Please try again later."}},"parameters":{},"response":{"description":"Forbidden: bot was kicked from the supergroup chat","error_code":403,"ok":false}},"level":"error","message":"Error in message","timestamp":"2024-02-09T06:53:10.527Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-09T06:54:12.882Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-09T06:54:12.887Z"}
+{"error":{},"level":"error","message":"Error in message","timestamp":"2024-02-11T08:45:34.985Z"}
+{"error":{},"level":"error","message":"Error in message","timestamp":"2024-02-11T08:54:59.113Z"}
+{"error":{},"level":"error","message":"Error in message","timestamp":"2024-02-11T08:57:45.294Z"}
+{"error":{},"level":"error","message":"Error in message","timestamp":"2024-02-11T09:02:02.897Z"}
+{"error":{},"level":"error","message":"Error in message","timestamp":"2024-02-11T09:07:09.870Z"}
+{"error":{},"level":"error","message":"Error in message","timestamp":"2024-02-11T09:28:16.662Z"}
+{"error":{},"level":"error","message":"Error in message","timestamp":"2024-02-11T09:29:18.288Z"}
+{"error":{},"level":"error","message":"Error in message","timestamp":"2024-02-11T09:29:58.150Z"}
+{"error":{},"level":"error","message":"Error in message","timestamp":"2024-02-11T09:32:36.821Z"}
+{"error":{},"level":"error","message":"Error in message","timestamp":"2024-02-11T09:37:14.313Z"}
+{"error":{},"level":"error","message":"Error in message","timestamp":"2024-02-11T09:38:31.726Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:45:18.458Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:45:40.905Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:45:40.912Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:46:35.023Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:46:35.030Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:46:35.032Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:47:40.276Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:47:40.282Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:47:40.283Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:48:19.266Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:48:19.272Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:48:19.273Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:51:31.131Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:51:31.136Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:51:31.137Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:53:51.708Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:53:51.713Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:53:51.714Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:54:19.171Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:54:19.178Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:54:19.179Z"}
+{"error":{"code":429,"description":"Too Many Requests: retry after 25","on":{"method":"sendMessage","payload":{"chat_id":-4105038230,"text":"Sorry, I encountered an error while processing your message. Please try again later."}},"parameters":{"retry_after":25},"response":{"description":"Too Many Requests: retry after 25","error_code":429,"ok":false,"parameters":{"retry_after":25}}},"level":"error","message":"Error in message","timestamp":"2024-02-11T12:54:31.389Z"}
+{"error":{"code":429,"description":"Too Many Requests: retry after 25","on":{"method":"sendMessage","payload":{"chat_id":-4105038230,"text":"Sorry, I encountered an error while processing your message. Please try again later."}},"parameters":{"retry_after":25},"response":{"description":"Too Many Requests: retry after 25","error_code":429,"ok":false,"parameters":{"retry_after":25}}},"level":"error","message":"Error in message","timestamp":"2024-02-11T12:54:31.399Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:54:52.535Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:54:52.541Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:54:52.542Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:59:42.204Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:59:42.209Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T12:59:42.210Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T13:06:05.243Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T13:06:05.246Z"}
+{"error":{},"level":"error","message":"Error in undefined","timestamp":"2024-02-11T13:06:05.246Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-02-11T13:09:28.501Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-02-11T13:09:28.504Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-02-11T13:09:28.505Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T07:58:59.022Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T08:00:13.959Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T08:02:47.412Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T17:43:22.494Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T17:43:34.606Z"}
+{"level":"error","message":"Error in [object Undefined]","timestamp":"2024-03-17T17:44:23.793Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T17:44:51.530Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:04:13.206Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:06:47.968Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:08:41.616Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:10:08.048Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:13:03.858Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:43:08.001Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:45:40.138Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:45:43.558Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:45:46.775Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:45:52.428Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:52:26.849Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:55:19.608Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:55:56.296Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:56:50.900Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T18:57:30.297Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:01:49.408Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:06:52.535Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:07:36.746Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:41:22.916Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:45:28.537Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:45:28.545Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:45:28.548Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:46:51.630Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:46:51.634Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:46:51.635Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:49:23.825Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:49:23.828Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:49:23.829Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:51:18.375Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:51:18.378Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:51:18.379Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:53:05.184Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:53:05.187Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:53:05.188Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:54:32.309Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:54:32.312Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:54:32.313Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:55:20.735Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:55:20.738Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:55:20.738Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:56:43.890Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:56:43.894Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:56:43.895Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:58:51.997Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:58:52.001Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T19:58:52.002Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:00:18.726Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:00:18.729Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:00:18.730Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:01:32.372Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:01:32.375Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:01:32.376Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:02:26.787Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:02:26.790Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:02:26.791Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:02:50.697Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:02:50.700Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:02:50.701Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:04:01.892Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:04:01.895Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:04:01.896Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:06:47.660Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:06:47.663Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:06:47.663Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:09:35.259Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:09:35.263Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:09:35.264Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:10:42.156Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:10:42.159Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:10:42.160Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:11:20.869Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:11:20.873Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:11:20.874Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:11:39.612Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:11:39.615Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:11:39.616Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:12:13.266Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:12:13.269Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:12:13.269Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:13:41.360Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:13:41.363Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:13:41.364Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:16:47.631Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:16:47.635Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:16:47.635Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:18:24.957Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:18:24.961Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:18:24.961Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:21:36.558Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:21:36.561Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:21:36.562Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:23:56.617Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:23:56.623Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:23:56.624Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:34:18.194Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:35:17.380Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:40:33.114Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:40:43.578Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-17T20:41:22.044Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-18T12:28:41.342Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-30T10:15:34.689Z"}
+{"level":"error","message":"Error in [object Object]","timestamp":"2024-03-30T11:16:20.480Z"}
