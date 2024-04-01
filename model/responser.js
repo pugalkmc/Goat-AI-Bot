@@ -7,7 +7,7 @@ import { OpenAI } from "langchain/llms/openai";
 import { RetrievalQAChain, loadQAStuffChain } from "langchain/chains";
 const apiKey = process.env.OPENAI_API_KEY
 const embeddings = new OpenAIEmbeddings({openAIApiKey:apiKey});
-const vectorStore = await FaissStore.load("./", embeddings);
+const vectorStore = FaissStore.load("./", embeddings);
 
 const model = new OpenAI({openAIApiKey: apiKey,modelName:"gpt-3.5-turbo", temperature: 1 });
 
