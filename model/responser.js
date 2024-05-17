@@ -20,7 +20,7 @@ const chain = new RetrievalQAChain({
 const responder = async (text) => {
   // Call the chain with the query
   const res = await chain.call({
-    query: text,
+    query: "Provide answer based on the user question, if nothing found from the context then reply with your own knowledge base/n/n"+text,
   });
 
   if (res.text.toLowerCase() === "i don't know.") {
